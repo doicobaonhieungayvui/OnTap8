@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Vip edit
+=======
+Main and Vip
+>>>>>>> main
